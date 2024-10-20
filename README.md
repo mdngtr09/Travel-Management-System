@@ -9,3 +9,5 @@ The system allows users to:
 - Process sales by recording client data, payment method, and travel packages sold, displaying the total cost in both currencies.
 
 Developed in Java, this project applies core OOP concepts to structure a modular, maintainable solution for travel package and sales management.
+
+![1020](https://github.com/user-attachments/assets/d7b3827c-5d56-41cc-b6df-71721b3d1d43)
